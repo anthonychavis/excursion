@@ -11,11 +11,6 @@ h1 {
     font-size: 3.125rem;
 }
 
-a {
-    color: #7fffd4;
-    font-size: 1rem;
-}
-
 h2 {
     font-weight: 300;
     font-size: 2.625rem;
@@ -26,6 +21,12 @@ p {
     color: #808080;
 }
 
+a {
+    color: #7fffd4;
+    font-size: 1rem;
+}
+
+/* video */
 video {
     width: 75%;
     max-height: 720px;
@@ -38,6 +39,7 @@ source {
     margin: 0;
 }
 
+/* images */
 figure{
     width: 75%;
     max-height: 530px;
@@ -52,6 +54,7 @@ img {
     margin: 10px auto;
 }
 
+/* footer */
 footer p {
     text-align: right;
 }
