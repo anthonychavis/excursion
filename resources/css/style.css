@@ -16,16 +16,44 @@ a {
     font-size: 1rem;
 }
 
-h2{
+h2 {
     font-weight: 300;
     font-size: 2.625rem;
 }
 
-p{
+p {
     font-size: 1.3125rem;
     color: #808080;
 }
 
-footer p{
+video {
+    width: 50%;
+    max-height: 720px;
+}
+
+source {
+    max-width: 100%;
+    height: auto;
+    display: block;
+    margin: 0;
+}
+
+/* #campground { */
+figure{
+    width: 50%;
+    max-height: 530px;
+    overflow: hidden;
+    margin: auto;
+}
+
+/* #campground img { */
+img {
+    max-width: 100%;
+    height: auto;
+    display: block;
+    margin: 10px auto;
+}
+
+footer p {
     text-align: right;
 }
