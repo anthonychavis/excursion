@@ -25,6 +25,7 @@ p {
 a {
     color: #7fffd4;
     font-size: 1rem;
+    transition: color 500ms linear 200ms;
 }
 
 a:hover {
