@@ -12,3 +12,12 @@ The web page we’ll build advertises a mobile app which helps users record and 
 We’ll work with Git and GitHub on our local machines, so if you haven’t yet, refer to the articles on Command Line Interface Setup and Git Setup.
 
 A preview of the page is available [here](https://content.codecademy.com/programs/freelance-one/excursion/index.html)!
+
+Approach
+-------------
+
+    * Execute everything according to the spec sheet provided for the project. 
+    * Have it responsive
+    * Compatibility across multiple browsers and devices
+    * Score highly on the Lighthouse reports, especially for Accessibility
+    * Have a slightly fancy display when sharing the link via SMS
