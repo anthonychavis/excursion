@@ -15,6 +15,7 @@ body {
 /* header */
 h1 {
     font-size: 3.125rem;
+    font-weight: normal;
 }
 
 span {
