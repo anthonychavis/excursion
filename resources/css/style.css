@@ -60,6 +60,10 @@ img {
     margin: 10px auto;
 }
 
+#campground {
+    border-radius: 2px;
+}
+
 /* footer */
 footer p {
     text-align: right;
