@@ -13,7 +13,7 @@ We’ll work with Git and GitHub on our local machines, so if you haven’t yet,
 
 A preview of the page is available [here](https://content.codecademy.com/programs/freelance-one/excursion/index.html)!
 
-Approach
+My Approach
 -------------
 
     * Execute everything according to the spec sheet provided for the project
