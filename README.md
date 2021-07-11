@@ -16,7 +16,7 @@ A preview of the page is available [here](https://content.codecademy.com/program
 Approach
 -------------
 
-    * Execute everything according to the spec sheet provided for the project. 
+    * Execute everything according to the spec sheet provided for the project
     * Have it responsive
     * Compatibility across multiple browsers and devices
     * Score highly on the Lighthouse reports, especially for Accessibility
