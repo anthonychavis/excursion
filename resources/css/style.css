@@ -24,18 +24,31 @@ span {
 }
 
 #fade-first {
-    animation: faded linear 2000ms;
+    animation: faded linear 2500ms;
 }
 #fade-second {
-    animation: faded ease-in 3500ms;
+    animation: faded ease-in 3600ms;
 }
-#fade-last {
-    animation: faded ease-in 5500ms;
-}
-
 @keyframes faded {
     from {opacity: 0;}
     to {opacity: 1;}
+}
+
+#fade-last {
+    animation: fancy ease-in 4600ms;
+    position: relative;
+}
+@keyframes fancy {
+    0% {opacity: 0; top: -100px; left: -25px;}
+    25% {opacity: 0; top: -100px; left: -25px;}
+    100% {opacity: 1; top: 0; left: 0;}
+}
+@media screen and (max-width: 421px) {
+    @keyframes fancy {
+        0% {opacity: 0; left: -100px;}
+        20% {opacity: 0; left: -100px;}
+        100% {opacity: 1; left: 0px;}
+    }
 }
 
 /* main */
