@@ -20,7 +20,7 @@ h1 {
     animation: faded ease-in 3500ms;
 }
 #fade-last {
-    animation: faded ease-in 6000ms;
+    animation: faded ease-in 5500ms;
 }
 
 @keyframes faded {
