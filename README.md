@@ -16,10 +16,10 @@ A preview of the page is available [here](https://content.codecademy.com/program
 My Approach
 -------------
 
-    * Execute everything according to the spec sheet provided for the project
-    * Have it responsive
-    * Compatibility across multiple browsers and devices
-    * Score highly on the Lighthouse reports, especially for Accessibility
-    * Have a slightly fancy display when sharing the link via SMS
+* Execute everything according to the [spec sheet](https://content.codecademy.com/programs/freelance-one/excursion/mocks/excursion_redline.png) provided for the project
+* Have it responsive
+* Compatibility across multiple browsers and devices
+* Score highly on the Lighthouse reports, especially for Accessibility
+* Have a slightly fancy display when sharing the link via SMS
 
 My final product can be found [here](https://anthonychavis.github.io/excursion).
