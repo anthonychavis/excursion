@@ -11,7 +11,7 @@ The web page we’ll build advertises a mobile app which helps users record and 
 
 We’ll work with Git and GitHub on our local machines, so if you haven’t yet, refer to the articles on Command Line Interface Setup and Git Setup.
 
-A preview of the page (provided by Codecademy) is available [here](https://content.codecademy.com/programs/freelance-one/excursion/index.html)!
+A preview of the page (_provided by Codecademy_) is available [here](https://content.codecademy.com/programs/freelance-one/excursion/index.html)!
 
 My Approach
 -------------
