@@ -35,7 +35,7 @@ span {
 }
 
 #fade-last {
-    animation: fancy ease-in 4600ms;
+    animation: fancy ease-in 3900ms;
     position: relative;
 }
 @keyframes fancy {
@@ -43,7 +43,11 @@ span {
     25% {opacity: 0; top: -100px; left: -25px;}
     100% {opacity: 1; top: 0; left: 0;}
 }
+
 @media screen and (max-width: 421px) {
+    #fade-last {
+        animation: fancy ease-in 4400ms;
+    }
     @keyframes fancy {
         0% {opacity: 0; left: -100px;}
         20% {opacity: 0; left: -100px;}
