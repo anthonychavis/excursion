@@ -139,6 +139,11 @@ img {
     border-radius: 2px;
 }
 
+#mobile:hover, #mobile:focus {
+    transform: rotate(90deg);
+    -ms-transform: rotate(90deg);
+}
+
 /* footer */
 footer {
     margin: 10px 0;
