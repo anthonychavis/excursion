@@ -142,6 +142,7 @@ img {
 #mobile:hover, #mobile:focus {
     transform: rotate(90deg);
     -ms-transform: rotate(90deg);
+    transition: transform 400ms ease-in-out 100ms;
 }
 
 /* footer */
