@@ -67,12 +67,12 @@ h2 span{
     transition: color 400ms linear 100ms;
 }
 
-h2 span:hover {
+h2 span:hover, h2 span:focus {
     color: #0bc00b;
 }
 
 @supports (background-clip: text) or (-webkit-background-clip: text) or (-moz-background-clip: text) or (-ms-background-clip: text) or (-o-background-clip: text) {
-    h2 span:hover {
+    h2 span:hover, h2 span:focus {
          background: linear-gradient(to right, #0099ff, #00ce00);
         background-clip: text;
         -webkit-background-clip: text;
@@ -95,7 +95,7 @@ a {
     transition: color 500ms linear 200ms;
 }
 
-a:hover {
+a:hover, a:focus {
     color: #b8860b;
 }
 
